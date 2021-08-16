@@ -16,6 +16,9 @@
           <a href="https://www.linkedin.com/in/gabriel-almeida-183a9a186" target="_blank">
           <img src="https://user-images.githubusercontent.com/48383295/129463275-de93d913-1ffa-4b64-be1c-430a87315a33.png" alt="GabrielAlmeida-linkedin" width="100px">
           </a>
+          <a href="https://www.linkedin.com/in/gabriel-almeida-183a9a186" target="_blank">
+          <img src=https://grroupas.com/wp-content/uploads/2021/08/insta.png" alt="GabrielAlmeida-linkedin" width="100px">
+          </a>
         </p>
 </div>
 <div align="center">
