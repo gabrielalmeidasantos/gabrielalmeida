@@ -34,7 +34,7 @@
         <h1>GitHub Status</h1><br />
         <p>
         <img src="https://github-readme-stats.vercel.app/api?username=gabrielalmeidasantos&show_icons=true&theme=tokyonight"><br /><br />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalmeidasantos&layout=demo">  
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielalmeidasantos&layout=demo&theme=tokyonight">  
         </p>
 
   
