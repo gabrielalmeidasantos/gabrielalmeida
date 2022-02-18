@@ -1,7 +1,6 @@
 
 <div align="center">
         <h1>Olá! Seja bem-vindo(a)!</h1>
-        <img src="https://grroupas.com/wp-content/uploads/2021/08/programming.png" width="500px">
         <p>Eu sou o Gabriel Almeida</p>
         <p>Sou um futuro <strong>Programador Full-stack </strong> tentando ingressar no mundo da tecnologia!</p>
         <p>Em 2019, eu entrei em uma escola técnica e conheci a programação.</p> 
