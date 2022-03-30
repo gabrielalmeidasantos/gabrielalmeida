@@ -2,7 +2,7 @@
 <div align="center">
         <h1>Olá! Seja bem-vindo(a)!</h1>
         <p>Eu sou o Gabriel Almeida</p>
-        <p>Sou um futuro <strong>Programador Full-stack </strong> tentando ingressar no mundo da tecnologia!</p>
+        <p>Sou um futuro <strong>Programador Front-end </strong> tentando ingressar no mundo da tecnologia!</p>
         <p>Em 2019, eu entrei em uma escola técnica e conheci a programação.</p> 
         <p> Atualmente sou formado pelo curso de Desenvolvimento de Sistemas e <br> Ensino Médio integrado ao Técnico de Informática para Web.</p><br/>
         <p><strong>💼Skills:</strong> HTML, CSS, JavaScript, BootStrap e PHP</p>
