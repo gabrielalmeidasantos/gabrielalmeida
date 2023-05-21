@@ -1,7 +1,7 @@
 
 <div align="center">
         <h1>Olá! Seja bem-vindo(a)!</h1>
-        <p>Sou o Gabriel Almeida, tenho 19 anos e sou programador front end, tudo começou em 2019 quando iniciei meus estudos de programação através de um curso técnico de informática para internet integrado ao ensino médio em uma etec, após 1 ano iniciei o curso técnico de desenvolvimento de sistemas, sendo meu segundo curso técnico na mesma etec.
+        <p>Sou o Gabriel Almeida, tenho 19 anos e sou programador full stack, tudo começou em 2019 quando iniciei meus estudos de programação através de um curso técnico de informática para internet integrado ao ensino médio em uma etec, após 1 ano iniciei o curso técnico de desenvolvimento de sistemas, sendo meu segundo curso técnico na mesma etec.
 
 Gostaria de trazer algumas experiências vivenciadas em 2022, como a visita na Oracle, Banco Pan, teatro FAAP e não posso me esquecer do tcc (demoday) que realizei no Instituto PROA onde pude aprender sobre HTML, CSS, JS, React.js, Java, Spring Boot e SQL.
 
